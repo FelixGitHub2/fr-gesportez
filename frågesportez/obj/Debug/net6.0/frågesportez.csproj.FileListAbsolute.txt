@@ -1,0 +1,15 @@
+C:\Users\felix.elliot\Documents\Programering 1\frågesportez\frågesportez\bin\Debug\net6.0\frågesportez.exe
+C:\Users\felix.elliot\Documents\Programering 1\frågesportez\frågesportez\bin\Debug\net6.0\frågesportez.deps.json
+C:\Users\felix.elliot\Documents\Programering 1\frågesportez\frågesportez\bin\Debug\net6.0\frågesportez.runtimeconfig.json
+C:\Users\felix.elliot\Documents\Programering 1\frågesportez\frågesportez\bin\Debug\net6.0\frågesportez.dll
+C:\Users\felix.elliot\Documents\Programering 1\frågesportez\frågesportez\bin\Debug\net6.0\frågesportez.pdb
+C:\Users\felix.elliot\Documents\Programering 1\frågesportez\frågesportez\obj\Debug\net6.0\frågesportez.csproj.AssemblyReference.cache
+C:\Users\felix.elliot\Documents\Programering 1\frågesportez\frågesportez\obj\Debug\net6.0\frågesportez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felix.elliot\Documents\Programering 1\frågesportez\frågesportez\obj\Debug\net6.0\frågesportez.AssemblyInfoInputs.cache
+C:\Users\felix.elliot\Documents\Programering 1\frågesportez\frågesportez\obj\Debug\net6.0\frågesportez.AssemblyInfo.cs
+C:\Users\felix.elliot\Documents\Programering 1\frågesportez\frågesportez\obj\Debug\net6.0\frågesportez.csproj.CoreCompileInputs.cache
+C:\Users\felix.elliot\Documents\Programering 1\frågesportez\frågesportez\obj\Debug\net6.0\frågesportez.dll
+C:\Users\felix.elliot\Documents\Programering 1\frågesportez\frågesportez\obj\Debug\net6.0\refint\frågesportez.dll
+C:\Users\felix.elliot\Documents\Programering 1\frågesportez\frågesportez\obj\Debug\net6.0\frågesportez.pdb
+C:\Users\felix.elliot\Documents\Programering 1\frågesportez\frågesportez\obj\Debug\net6.0\frågesportez.genruntimeconfig.cache
+C:\Users\felix.elliot\Documents\Programering 1\frågesportez\frågesportez\obj\Debug\net6.0\ref\frågesportez.dll
